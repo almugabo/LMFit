@@ -8,18 +8,18 @@ The focus is on decoder-only transformers (see selected models).
 
 Its structure may/will change over time but for now it is organized around 4 topics 
 
-[1] Inference 
+### [1] Inference 
  
  with scripts on efficient generation of text from LM 
  
- [2] Fine Tuning 
+### [2] Fine Tuning 
  
  experimenting with fine tuning language models 
  
- [3] Evaluation 
+### [3] Evaluation 
  
  experimenting with the evaluation of language models 
  
- [4] others 
+ ### [4] others 
  
  
