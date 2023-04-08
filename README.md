@@ -4,7 +4,7 @@ experiments in finetuning language models
 
 This "live" repository contains experimental work on finetuning language models (LM). 
 
-The focus is on decoder-only transformers (see selected models). 
+The focus is on decoder-only transformers. see: selected models : https://github.com/almugabo/LMFit/blob/main/selected_models.md
 
 Its structure may/will change over time but for now it is organized around 4 topics 
 
