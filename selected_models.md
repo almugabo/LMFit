@@ -50,3 +50,20 @@ decapoda-research/llama-7b-hf
 
 
 
+## Other interesting overviews : 
+
+
+https://kipp.ly/blog/transformer-taxonomy/?utm_source=substack&utm_medium=email
+
+https://finbarr.ca/five-years-of-gpt-progress/
+
+
+
+
+
+
+
+
+
+
+
